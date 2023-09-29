@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
+    "start": "node index.js"
   },
   "keywords": ["deveos", "nodejs", "express", "web"],
   "author": "101392515 - Zain Karedia",
